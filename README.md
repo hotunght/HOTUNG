@@ -1,2 +1,2 @@
-# HOTUNG
+# VIC MOD
 Dockable
